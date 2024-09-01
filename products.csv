@@ -1,0 +1,6 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Laptop,Electronics,1000.0,10,4.5,100
+2,Smartphone,Electronics,500.0,20,4.7,150
+3,Headphones,Accessories,50.0,30,4.2,60
+4,Monitor,Electronics,200.0,15,4.3,80
+5,Keyboard,Accessories,30.0,25,4.1,40
